@@ -1,51 +1,47 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/yamunashah/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/banner.png" alt="My banner">
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/yamunashah/" target="_blank" rel="noreferrer">Yamuna</a> 👋</h3>
 
-<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
+<h2 align="center">I'm a Quality Assurance Engineer 💻</h2>
 
 ### 🤝 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
-    <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+  <a href="https://www.linkedin.com/in/yamunashah/">
+    <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/linkedin.svg" alt="Yamuna Shah | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
-  </a>
-  <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+  <a href="https://wa.link/vhak1x">
+    <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/whatsapp.png" alt="Yamuna | Whatsapp" width="21px"/>
   </a>
 </p>
   
 ## 🥇 Certifications
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/aws-cp.png" alt="Jatin | AWS-CP" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/aws-dev.png" alt="Jatin | AWS-DEV" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/aws-sa.png" alt="Jatin | AWS-SA" width="100 px"/>
-   <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/ocpjp.png" alt="Jatin | AWS-SA" width="100 px"/>
-    <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
-     <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/csm.webp" alt="Jatin | AWS-SA" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/ISTQB.png" alt="Yamuna | ISTQB" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/aws-cp.png" alt="Yamuna | AWS-CP" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/aws-dev.png" alt="Yamuna | AWS-DEV" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/aws-sa.png" alt="Yamuna | AWS-SA" width="100 px"/>
+   <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/ocpjp.png" alt="Yamuna | AWS-SA" width="100 px"/>
+    <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/safe.png" alt="Yamuna | AWS-SA" width="100 px"/>
+     <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/csm.webp" alt="Yamuna | AWS-SA" width="100 px"/>
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
 
 ## 🔭 I'm currently working on
 
-- Microservices Testing Automation Framework
-- Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
-- Postman Newman Automated Test 
+- Creating Testing Automation Framework using JAVA Maven tool.
+- Learning Postman API Automation tool.
 <p align="center">    
-<img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/postmanproject.jpg" alt="Jatin | Whatsapp" width="500px"/> </p>
+<img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/postmanproject.jpg" alt="Yamuna | Whatsapp" width="500px"/> </p>
 
 ## 🌱 I'm currently learning
 
-- I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products. 
+- I am currently exploring the worlds of Automation Testing Process and how to utilize it better to reduce the manual QA efforts.
 
 
 ## 🥇 Achievements
@@ -54,13 +50,8 @@
 seamless user experience and functionality across various devices which gave
 <b>20% improvement in overall software stability and performance</b>
 
--Guided and trained 5 Junior QA team members on test automation best practices,
-resulting in a  <b>40% decrease in test execution time and a 25% increase in test
-coverage </b>
+-Ensure the quality of the product underline the timeline of deliveing all the integration at the same time working single QA in the team of 5 members.Helps to achieve the releases within timeframe decided by customer. </b>
 
--Engineered automation scripts using Selenium and Java to increase testing
-efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
-in test coverage</b>
 
 
 ## 💻 Framework WalkThrough
@@ -68,11 +59,11 @@ in test coverage</b>
 
 ## 💻 My Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin99&repo=AutomationFramework)](https://github.com/jatin99/AutomationFramework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamunashah&repo=AutomationFramework)](https://github.com/yamuna/AutomationFramework)
 
-[Automated Regression Testing Framework Java](https://github.com/jatin99/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
+[Automated Regression Testing Framework Java](https://github.com/yamunashah/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
 
-[Automated Regression Testing Framework Python](https://github.com/jatin99/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
+[Automated Regression Testing Framework Python](https://github.com/yamunashah/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
 
 
 ## 💼 Technical Skills
@@ -94,22 +85,19 @@ in test coverage</b>
 
 ## 📈 GitHub Stats 
 
-[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatin99)](https://github.com/jatin99)
+[![Yamuna's github stats](https://github-readme-stats.vercel.app/api?username=yamunashah](https://github.com/yamunashah)
 
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:jatinvsharma@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:shahy3890@gmail.com">shahy3890@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yamunashah">LinkedIn</a>.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
-    <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+  <a href="https://www.linkedin.com/in/yamunashah/">
+    <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/linkedin.svg" alt="Yamuna Shah | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
-  </a>
-  <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+  <a href="https://wa.link/vhak1x">
+    <img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/whatsapp.png" alt="Yamuna | Whatsapp" width="21px"/>
   </a>
 </p>
   
