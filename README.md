@@ -36,8 +36,6 @@
 
 - Creating Testing Automation Framework using JAVA Maven tool.
 - Learning Postman API Automation tool.
-<p align="center">    
-<img src="https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/postmanproject.jpg" alt="Yamuna | Whatsapp" width="500px"/> </p>
 
 ## 🌱 I'm currently learning
 
@@ -55,15 +53,9 @@ seamless user experience and functionality across various devices which gave
 
 
 ## 💻 Framework WalkThrough
-[![Test Automation Framework Video](https://raw.githubusercontent.com/yamunashah/yamunashah.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
 
 ## 💻 My Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamunashah&repo=AutomationFramework)](https://github.com/yamuna/AutomationFramework)
-
-[Automated Regression Testing Framework Java](https://github.com/yamunashah/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
-
-[Automated Regression Testing Framework Python](https://github.com/yamunashah/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
 
 
 ## 💼 Technical Skills
@@ -84,8 +76,6 @@ seamless user experience and functionality across various devices which gave
 </p>
 
 ## 📈 GitHub Stats 
-
-[![Yamuna's github stats](https://github-readme-stats.vercel.app/api?username=yamunashah](https://github.com/yamunashah)
 
 
 ## Contact
